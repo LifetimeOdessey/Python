@@ -32,8 +32,7 @@ I'm eager to dive deep into a wide range of subjects, including:
 - Investment 📈
 - Personal Development 🚀
 
-## Legal Notice 📜
-# License Disclaimer
+# License Disclaimer 📜
 
 **Disclaimer**: This repository and its content, including but not limited to code, documentation, and associated materials (the "Content"), are provided for educational and personal development purposes only. Any use of the Content for commercial purposes is strictly prohibited without the express written consent of the copyright owner, Yeffarson.
 
@@ -61,3 +60,8 @@ For inquiries regarding commercial use or any questions related to this license,
 
 ## Connect with Me
 If you share a passion for any of these topics or just want to connect, don't hesitate to reach out! Let's learn and grow together. 🌱
+
+**Facebook:**
+**Twitter:**
+**LinkedIn:**
+**Website:**
