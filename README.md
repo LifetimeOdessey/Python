@@ -61,7 +61,7 @@ For inquiries regarding commercial use or any questions related to this license,
 ## Connect with Me
 If you share a passion for any of these topics or just want to connect, don't hesitate to reach out! Let's learn and grow together. 🌱
 
-**Facebook:**
-**Twitter:**
-**LinkedIn:**
-**Website:**
+- **Facebook:**
+- **Twitter:**
+- **LinkedIn:**
+- **Website:**
